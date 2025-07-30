@@ -36,7 +36,7 @@ The following hyperparameters were used for training:
 
 ## Results
 
-The following plot shows the rewards and mean rewards for each episode. The data is given in ``training_scores.json``.
+The following plot shows the rewards and mean rewards for each episode. The data is given in ``training_scores.json``. The trained model parameters are in ``trained_model.pth``.
 
 ![Training score plot](score_learning_results.png)
 
