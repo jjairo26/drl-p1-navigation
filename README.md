@@ -29,4 +29,4 @@ The task is episodic. The environment is considered solved if the average score 
 
 ### Instructions
 
-Follow the instructions in `Navigation_sol.ipynb` to get started!  
+Follow the instructions in `Navigation.ipynb` to get started!  
